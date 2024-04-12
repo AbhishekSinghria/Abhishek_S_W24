@@ -1,6 +1,1 @@
-self.__NEXT_FONT_MANIFEST={
-  "pages": {},
-  "app": {},
-  "appUsingSizeAdjust": false,
-  "pagesUsingSizeAdjust": false
-}
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/abhisheksinghria/Desktop/Abhishek_S_W24/app/layout\":[\"static/media/e1c529c04de64b40-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
